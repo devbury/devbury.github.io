@@ -1,1 +1,1 @@
-<i class="fa fa-github fa-3x"/> [GitHub](https://github.com/devbury)
+<a href="https://github.com/devbury"><i class="fa fa-github fa-3x"/></a>
