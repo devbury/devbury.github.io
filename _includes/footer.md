@@ -1,4 +1,1 @@
-
-
-[devbury.com](http://devbury.com)
-
+<i class="fa fa-github fa-3x"/> [GitHub](https://github.com/devbury)
