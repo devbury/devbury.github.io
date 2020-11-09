@@ -1,1 +1,0 @@
-<a href="https://github.com/devbury"><i class="fa fa-github fa-3x"/></a>
